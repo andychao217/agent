@@ -7,7 +7,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/absmach/agent/pkg/agent"
+	"github.com/andychao217/agent/pkg/agent"
 	"github.com/go-kit/kit/endpoint"
 )
 

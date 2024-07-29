@@ -15,13 +15,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/absmach/agent/pkg/agent"
-	"github.com/absmach/agent/pkg/agent/api"
-	"github.com/absmach/agent/pkg/agent/mocks"
+	"github.com/andychao217/agent/pkg/agent"
+	"github.com/andychao217/agent/pkg/agent/api"
+	"github.com/andychao217/agent/pkg/agent/mocks"
 	paho "github.com/eclipse/paho.mqtt.golang"
 
-	"github.com/absmach/magistrala/logger"
-	"github.com/absmach/magistrala/pkg/messaging/brokers"
+	"github.com/andychao217/magistrala/logger"
+	"github.com/andychao217/magistrala/pkg/messaging/brokers"
 	"github.com/stretchr/testify/assert"
 )
 

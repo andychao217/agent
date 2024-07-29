@@ -15,8 +15,8 @@ import (
 
 	"github.com/creack/pty"
 
-	"github.com/absmach/agent/pkg/encoder"
-	"github.com/absmach/magistrala/pkg/errors"
+	"github.com/andychao217/agent/pkg/encoder"
+	"github.com/andychao217/magistrala/pkg/errors"
 )
 
 const (

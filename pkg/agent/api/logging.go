@@ -8,7 +8,7 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/absmach/agent/pkg/agent"
+	"github.com/andychao217/agent/pkg/agent"
 )
 
 var _ agent.Service = (*loggingMiddleware)(nil)

@@ -6,7 +6,7 @@ ARG VERSION
 ARG COMMIT
 ARG TIME
 
-WORKDIR /go/src/github.com/absmach/agent
+WORKDIR /go/src/github.com/andychao217/agent
 COPY . .
 RUN apk update \
     && apk add make\

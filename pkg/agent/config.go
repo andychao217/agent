@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/absmach/magistrala/pkg/errors"
+	"github.com/andychao217/magistrala/pkg/errors"
 	"github.com/pelletier/go-toml"
 )
 

@@ -14,13 +14,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/absmach/agent/pkg/edgex"
-	"github.com/absmach/agent/pkg/encoder"
-	"github.com/absmach/agent/pkg/terminal"
+	"github.com/andychao217/agent/pkg/edgex"
+	"github.com/andychao217/agent/pkg/encoder"
+	"github.com/andychao217/agent/pkg/terminal"
 	paho "github.com/eclipse/paho.mqtt.golang"
 
-	"github.com/absmach/magistrala/pkg/errors"
-	"github.com/absmach/magistrala/pkg/messaging"
+	"github.com/andychao217/magistrala/pkg/errors"
+	"github.com/andychao217/magistrala/pkg/messaging"
 	exp "github.com/mainflux/export/pkg/config"
 )
 

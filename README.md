@@ -1,6 +1,6 @@
 # Magistrala IoT Agent
 
-![badge](https://github.com/absmach/agent/workflows/Go/badge.svg)
+![badge](https://github.com/andychao217/agent/workflows/Go/badge.svg)
 ![ci][ci]
 ![release][release]
 [![go report card][grc-badge]][grc-url]
@@ -18,8 +18,8 @@ Magistrala IoT Agent is a communication, execution and SW management agent for M
 Get the code:
 
 ```bash
-go get github.com/absmach/agent
-cd $GOPATH/github.com/absmach/agent
+go get github.com/andychao217/agent
+cd $GOPATH/github.com/andychao217/agent
 ```
 
 Make:
@@ -243,8 +243,8 @@ RmlsZSA9ICIuLi9jb25maWdzL2NvbmZpZy50b21sIgoKW2V4cF0KICBsb2dfbGV2ZWwgPSAiZGVidWci
 
 [Apache-2.0](LICENSE)
 
-[grc-badge]: https://goreportcard.com/badge/github.com/absmach/agent
-[grc-url]: https://goreportcard.com/report/github.com/absmach/agent
+[grc-badge]: https://goreportcard.com/badge/github.com/andychao217/agent
+[grc-url]: https://goreportcard.com/report/github.com/andychao217/agent
 [docs]: http://mainflux.readthedocs.io
 [gitter]: https://gitter.im/mainflux/mainflux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 [gitter-badge]: https://badges.gitter.im/Join%20Chat.svg
@@ -252,5 +252,5 @@ RmlsZSA9ICIuLi9jb25maWdzL2NvbmZpZy50b21sIgoKW2V4cF0KICBsb2dfbGV2ZWwgPSAiZGVidWci
 [export]: https://github.com/mainflux/export
 [provision]: https://github.com/mainflux/mainflux/tree/master/provision
 [mfxui]: https://github.com/mainflux/ui
-[ci]: https://github.com/absmach/agent/actions/workflows/ci.yml/badge.svg
-[release]: https://github.com/absmach/agent/actions/workflows/release.yml/badge.svg
+[ci]: https://github.com/andychao217/agent/actions/workflows/ci.yml/badge.svg
+[release]: https://github.com/andychao217/agent/actions/workflows/release.yml/badge.svg

@@ -10,7 +10,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/absmach/agent/pkg/agent"
+	"github.com/andychao217/agent/pkg/agent"
 	"github.com/go-kit/kit/metrics"
 )
 

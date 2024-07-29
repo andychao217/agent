@@ -15,10 +15,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/absmach/agent/pkg/agent"
+	"github.com/andychao217/agent/pkg/agent"
 
-	"github.com/absmach/magistrala/bootstrap"
-	errors "github.com/absmach/magistrala/pkg/errors"
+	"github.com/andychao217/magistrala/bootstrap"
+	errors "github.com/andychao217/magistrala/pkg/errors"
 	export "github.com/mainflux/export/pkg/config"
 )
 

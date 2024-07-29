@@ -10,9 +10,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/absmach/agent/pkg/agent"
-	"github.com/absmach/magistrala/pkg/messaging"
 	"github.com/absmach/senml"
+	"github.com/andychao217/agent/pkg/agent"
+	"github.com/andychao217/magistrala/pkg/messaging"
 	"robpike.io/filter"
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"

@@ -7,8 +7,8 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/absmach/agent/pkg/agent"
-	"github.com/absmach/magistrala"
+	"github.com/andychao217/agent/pkg/agent"
+	"github.com/andychao217/magistrala"
 	"github.com/go-zoo/bone"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 
